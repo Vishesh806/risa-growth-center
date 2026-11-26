@@ -227,3 +227,4 @@ The system prompt enforces: answer only from tool results in the current turn; u
 - Data not available (the chatbot says so): demographics, college names, ticket revenue, venue capacity, creative-level data, deduplicated reach.
 - Download (export) is blocked inside the claude.ai artifact sandbox but works on a normal web host.
 - The demo embeds a Gemini API key client-side so reviewers can use the chatbot without their own key. Production would call Gemini through a backend proxy, and the demo key will be deleted after review.
+-  The demo embeds an API key client-side for reviewer convenience; production would call Gemini through a backend proxy.
