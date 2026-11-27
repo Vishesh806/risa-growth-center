@@ -1,0 +1,33 @@
+{
+  "name": "risa-growth-center",
+  "version": "1.0.0",
+  "description": "**Author:** Vishesh (Dual Degree, IIT Kharagpur) · **Track:** Challenge A, Attendee Growth · **City:** Bengaluru",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "bugs": {
+    "url": "https://github.com/Vishesh806/risa-growth-center/issues"
+  },
+  "homepage": "https://github.com/Vishesh806/risa-growth-center#readme",
+  "dependencies": {
+    "lucide-react": "^1.82.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "recharts": "^3.11.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.4.0",
+    "vitest": "^3.2.7"
+  }
+}
