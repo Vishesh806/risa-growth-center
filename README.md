@@ -5,7 +5,7 @@
 | Deliverable | File / link |
 |---|---|
 | 3-slide strategy | `Vishesh_RISA_Growth_APM_Strategy.pdf` |
-| Working product (dashboard + campaign/task manager + AI analyst) | `index.html`, live at **https://vishesh806.github.io/risa-growth-center/** |
+| Working product (dashboard + campaign/task manager + AI analyst) | `index.html`, live at **https://risa-growth-center-jade.vercel.app/** |
 | Analysis scripts (reproduce every number) | `analysis/*.py` |
 
 ---
